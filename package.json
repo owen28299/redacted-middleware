@@ -1,0 +1,24 @@
+{
+  "name": "redacted-middleware",
+  "version": "1.0.0",
+  "description": "Redacted One of your clients have contacted you with a problem. Their Users have figured out that their chat messages aren't filtered and they can say anything that they want. The CEO dislikes the slang terms being used on the internet and wants to implement a system which will remove certain words and replace them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owen28299/redacted-middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owen28299/redacted-middleware/issues"
+  },
+  "homepage": "https://github.com/owen28299/redacted-middleware#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
